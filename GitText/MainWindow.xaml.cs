@@ -23,6 +23,7 @@ namespace GitText
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Check");
         }
     }
 }
